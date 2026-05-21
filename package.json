@@ -1,0 +1,10 @@
+{
+  "name": "fiqh-website",
+  "version": "1.0.0",
+  "description": "Fiqh website with JSON-backed persistent writings storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
